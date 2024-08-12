@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'LilitaOne';
+  src: url('./utils/fonts/LilitaOne-Regular.ttf') format('truetype');
+}
